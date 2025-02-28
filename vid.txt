@@ -1,1 +1,3 @@
 https://mega.nz/file/IldAhCIT#xVTvUgPd8KjQAODWoKH1mSWbkOAonBoOznwNodok1lk
+
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
