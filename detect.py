@@ -11,7 +11,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from tracker import *
 
 # Manually set Google API Key (Replace with your actual key)
-GOOGLE_API_KEY = "AIzaSyAHR9ITHQbFrKo4DSOK56H-P5eUFKXfsfQ"
+GOOGLE_API_KEY = ""
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 gemini_model = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
